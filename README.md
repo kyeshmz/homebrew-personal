@@ -10,10 +10,12 @@ After you install homebrew-cask, run the following command:
 
 You can now install casks from this repository:
 
-`brew cask install rhino5`
+`brew install rhino5 --cask`
+`brew install dune --cask`
 
 ## Packages
 
-| Package name           | Description        | Homepage                    |
-| ---------------------- | ------------------ | --------------------------- |
-| `rhino5` | CAD design software | [Link](https://www.rhino3d.com/) |
+| Package name | Description                              | Homepage                         |
+| ------------ | ---------------------------------------- | -------------------------------- |
+| `rhino5`     | CAD design software                      | [Link](https://www.rhino3d.com/) |
+| `DuNE`       | Alternative to handbrake or mediaencoder | [Link](https://www.rhino3d.com/) |
