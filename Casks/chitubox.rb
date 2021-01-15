@@ -7,5 +7,5 @@ cask "chitubox-free" do
   desc "All in one SLA/ DLP/ LCD Slicer"
   homepage ""
 
-  app ""
+  app "CHITUBOX"
 end
