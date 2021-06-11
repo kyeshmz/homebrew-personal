@@ -8,5 +8,7 @@ cask "codemeter7" do
   # we use the url from reason studios for now because codemeter doesnt have past downloads
   homepage "https://www.wibu.com/products/codemeter/runtime.html"
 
+  pkg "CmInstall.pkg"
+
   app "CodeMeter"
 end
