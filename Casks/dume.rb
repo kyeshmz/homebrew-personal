@@ -1,6 +1,6 @@
 cask "dume" do
     version "0.3.0"
-    sha256 "b91428cb0afd0647c38b0fd9ffdf2619511f17ad37c463e1417bfe82408a9aba"
+    sha256 "a8bff9b1aea2afc9198f014ac4ff58e7fbae73d465843502459316b9b086d5ac"
   
     url "https://github.com/Rainbox-dev/DuME/releases/download/v#{version}/DuME-#{version}.dmg",
       verified: "github.com/Rainbox-dev/DuME"
