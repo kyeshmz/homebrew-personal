@@ -8,6 +8,7 @@ cask "dume" do
     name "DuME"
     desc "A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg"
     homepage "https://rainboxlab.org/tools/dume/"
+    auto_updates true
   
     app "DuME.app"
   end
